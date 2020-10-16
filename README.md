@@ -22,12 +22,12 @@
 
 3.2. [Методы и параметры метода](./lessonk-3/homework-3.2.md)
 
-3.3. [Практические задания](./lessonk-3/homework-3.3.md)
+3.3. [Оператор return и ключевое слово void](./lessonk-3/homework-3.3.md)
+
+3.3. [Практические задания](./lessonk-3/homework-3.4.md)
 
 
 ### Урок 4. Оператор return и ключевое слово void, break, continue, преобразование примитивных и ссылочных типов
-
-4.1. [Оператор return и ключевое слово void](./lessonk-4/homework-4.1.md)
 
 4.2. [break и continue](./lessonk-4/homework-4.2.md)
 
