@@ -91,11 +91,11 @@ class Main {
 ``` java
 Scanner scanner = new Scanner(System.in);
 ```
-3. Для того чтобы была возможность в коде использовать класс Scanner, нужно обязательно добавить import этого класса в самое начало файла Main.java:
+3. Для того чтобы была возможность в коде использовать класс Scanner, нужно обязательно добавить import этого класса в самое начало файла Test.java:
 ``` java
 import java.util.Scanner;
 
-class Main {
+class Test {
     public static void main(String[] args) {
         // Код сюда
     }
